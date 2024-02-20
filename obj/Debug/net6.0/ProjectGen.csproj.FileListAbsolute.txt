@@ -1,0 +1,128 @@
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\appsettings.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ProjectGen.exe
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ProjectGen.deps.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ProjectGen.runtimeconfig.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ProjectGen.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ProjectGen.pdb
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.csproj.AssemblyReference.cache
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.AssemblyInfoInputs.cache
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.AssemblyInfo.cs
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.csproj.CoreCompileInputs.cache
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\scopedcss\bundle\ProjectGen.styles.css
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\refint\ProjectGen.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.pdb
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.genruntimeconfig.cache
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ref\ProjectGen.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\obj\Debug\net6.0\ProjectGen.csproj.CopyComplete
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Humanizer.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\2B\OneDrive\Área de Trabalho\Desafio\ProjectGen\bin\Debug\net6.0\System.CodeDom.dll
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.csproj.AssemblyReference.cache
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.AssemblyInfoInputs.cache
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.AssemblyInfo.cs
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.csproj.CoreCompileInputs.cache
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.MvcApplicationPartsAssemblyInfo.cs
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.MvcApplicationPartsAssemblyInfo.cache
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.dll
+D:\DEV\school_api\obj\Debug\net6.0\refint\ProjectGen.dll
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.pdb
+D:\DEV\school_api\bin\Debug\net6.0\appsettings.Development.json
+D:\DEV\school_api\bin\Debug\net6.0\appsettings.json
+D:\DEV\school_api\bin\Debug\net6.0\ProjectGen.exe
+D:\DEV\school_api\bin\Debug\net6.0\ProjectGen.deps.json
+D:\DEV\school_api\bin\Debug\net6.0\ProjectGen.runtimeconfig.json
+D:\DEV\school_api\bin\Debug\net6.0\ProjectGen.dll
+D:\DEV\school_api\bin\Debug\net6.0\ProjectGen.pdb
+D:\DEV\school_api\bin\Debug\net6.0\Humanizer.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DEV\school_api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DEV\school_api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\DEV\school_api\bin\Debug\net6.0\Npgsql.dll
+D:\DEV\school_api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DEV\school_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DEV\school_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DEV\school_api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DEV\school_api\bin\Debug\net6.0\System.CodeDom.dll
+D:\DEV\school_api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DEV\school_api\bin\Debug\net6.0\System.Text.Json.dll
+D:\DEV\school_api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets.build.json
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets.development.json
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets\msbuild.ProjectGen.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectGen.props
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectGen.props
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectGen.props
+D:\DEV\school_api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DEV\school_api\obj\Debug\net6.0\scopedcss\bundle\ProjectGen.styles.css
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.csproj.Up2Date
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.genruntimeconfig.cache
+D:\DEV\school_api\obj\Debug\net6.0\ref\ProjectGen.dll
