@@ -126,3 +126,4 @@ D:\DEV\school_api\obj\Debug\net6.0\scopedcss\bundle\ProjectGen.styles.css
 D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.csproj.Up2Date
 D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.genruntimeconfig.cache
 D:\DEV\school_api\obj\Debug\net6.0\ref\ProjectGen.dll
+D:\DEV\school_api\obj\Debug\net6.0\ProjectGen.sourcelink.json
