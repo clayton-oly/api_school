@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZmo9zDqwVSDMfA/7LYiUJ8Ly9HqRuDx4QHQifqnMo93cRHigp//zYlllDI1CoveEVs2AkLdkSd+YyMwL6bpXA==",
+  "dgSpecHash": "xUl8kbUqdo/cEtlt7LqRDdt42fQQQiLTwok7sW+4p0K1S70kn0hHqiC0mm16UDTotreN2OgcCNMB1BD/kQEkYg==",
   "success": true,
-  "projectFilePath": "D:\\DEV\\school_api\\ProjectGen.csproj",
+  "projectFilePath": "D:\\DEV\\school_api\\School_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2B\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\2B\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

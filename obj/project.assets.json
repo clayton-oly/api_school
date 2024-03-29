@@ -1470,19 +1470,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV\\school_api\\ProjectGen.csproj",
-      "projectName": "ProjectGen",
-      "projectPath": "D:\\DEV\\school_api\\ProjectGen.csproj",
+      "projectUniqueName": "D:\\DEV\\school_api\\School_API.csproj",
+      "projectName": "School_API",
+      "projectPath": "D:\\DEV\\school_api\\School_API.csproj",
       "packagesPath": "C:\\Users\\2B\\.nuget\\packages\\",
       "outputPath": "D:\\DEV\\school_api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\2B\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\2B\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -10,4 +10,4 @@ FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
 COPY --from=build /app/out ./
 
-CMD ["dotnet", "ProjectGen.dll"]
+CMD ["dotnet", "School_API.dll"]
